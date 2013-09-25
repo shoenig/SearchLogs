@@ -1,0 +1,8 @@
+:1:sample.log:This is
+i:2:sample.log:Hello World
+i:5:sample.log:world
+iw:2:sample.log:hi world
+i:4+:sample.log:world
+i:9-:sample.log:world
+:1|2:sample.log:World
+iw:1-3:sample.log: o world
